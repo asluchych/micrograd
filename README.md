@@ -1,2 +1,3 @@
 # micrograd
-A small scalar-valued autograd engine an neural network library with API based on it
+
+Implemented following Andrej Karpathy's Intro to neural networks and backpropagation, https://www.youtube.com/watch?v=VMj-3S1tku0
